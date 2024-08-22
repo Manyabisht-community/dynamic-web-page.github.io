@@ -1,0 +1,5 @@
+body {font-family:Arial,sans-serif; background-color: #fbc82e; padding-top: 20px;  }
+#dataContainer{margin: top 20px; background-color: rgb(192, 115, 21);}
+.btn:hover {background-color: rgb(47, 160, 246);cursor:pointer;} 
+h1{color: brown; text-shadow: 2px 2px 4px #000000;}
+.container{align-items: center;}
